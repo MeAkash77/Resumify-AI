@@ -6,8 +6,6 @@
   ✨ Build professional resumes effortlessly with AI-generated content, secure authentication, and complete customization.
 </p>
 
- <h2 align="center">Resumify</h2>
-
   <div align="center">
      <b>Resumify</b> simplifies the process of creating a professional resume. Powered by AI, users can generate, update, and customize their resumes effortlessly. It's secure, user-friendly, and highly customizable—perfect for anyone looking to create an outstanding resume that stands out to employers.
   </div>
