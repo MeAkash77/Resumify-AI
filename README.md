@@ -17,6 +17,13 @@
 
 ---
 
+<div align="center">
+  <br />
+    <img src="https://i.postimg.cc/9QtLC6R6/Screenshot-2024-11-08-001254.png" alt="Project Banner">
+  <br />
+  <br />
+
+
 ## ⚙️ Tech Stack
 
 | Layer         | Technology         | Description |
@@ -53,18 +60,6 @@ Ensure the following tools are installed:
 - [Gemini API Key](https://aistudio.google.com/)
 
 ---
-
-
-
-
-
-
-
-<div align="center">
-  <br />
-    <img src="https://i.postimg.cc/9QtLC6R6/Screenshot-2024-11-08-001254.png" alt="Project Banner">
-  <br />
-  <br />
 
 
   <h2 align="center">Resumify</h2>
