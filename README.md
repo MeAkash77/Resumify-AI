@@ -44,6 +44,9 @@
     <img src="https://i.postimg.cc/9QtLC6R6/Screenshot-2024-11-08-001254.png" alt="Project Banner">
   <br />
   <br />
+<img width="866" height="439" alt="Image" src="https://github.com/user-attachments/assets/e9695a08-4265-439a-9484-cbcf04419502" />
+
+
 
 
 ## 💡 Why Resumify?
