@@ -11,7 +11,7 @@
      <b>Resumify</b> simplifies the process of creating a professional resume. Powered by AI, users can generate, update, and customize their resumes effortlessly. It's secure, user-friendly, and highly customizable—perfect for anyone looking to create an outstanding resume that stands out to employers.
   </div>
   <br />
-  <a href="https://resumify-by-amit.vercel.app/"><strong>➥ Visit Resumify App</strong></a>
+  <a href="https://resumify-ai-orpin.vercel.app/"><strong>➥ Visit Resumify App</strong></a>
 </div>
 
 ### ✨ **Features**
