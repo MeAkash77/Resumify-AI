@@ -1,3 +1,65 @@
+<h1 align="center">
+  📄 Resumify - AI-Crafted Resumes, Simplified
+</h1>
+
+<p align="center">
+  ✨ Build professional resumes effortlessly with AI-generated content, secure authentication, and complete customization.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-14-blue?logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Clerk-Auth-blueviolet?logo=clerk" />
+  <img src="https://img.shields.io/badge/Gemini-API-green?logo=google" />
+  <img src="https://img.shields.io/badge/TailwindCSS-Styling-06B6D4?logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-brightgreen?logo=node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-Database-4EA94B?logo=mongodb" />
+</p>
+
+---
+
+## ⚙️ Tech Stack
+
+| Layer         | Technology         | Description |
+|---------------|--------------------|-------------|
+| 🖼️ Frontend    | **Next.js 14**      | Fast rendering, SSR, and SEO-friendly UI |
+| 🔐 Auth        | **Clerk**           | Secure user sign-up, login, and session handling |
+| 🤖 AI          | **Gemini API**      | Generates resume sections (summaries, job roles, etc.) |
+| 🎨 Styling     | **TailwindCSS**     | Utility-first CSS framework for responsive design |
+| 🧠 Backend     | **Node.js**         | Handles requests, processes data, and connects to DB |
+| 🗄️ Database    | **MongoDB**         | Flexible schema to store resumes and user data |
+
+---
+
+## 💡 Why Resumify?
+
+- ✍️ **Effortless Resume Creation** – Use AI to generate high-quality content tailored to your career goals.
+- 🔐 **Secure & Private** – Auth handled by Clerk, data stored safely in MongoDB.
+- 🧩 **Fully Customizable** – Edit every section of your resume in real time.
+- 📱 **Responsive Design** – Works flawlessly on all devices.
+- 🧠 **Smart AI Suggestions** – Get content help powered by Gemini AI.
+
+---
+
+## 🚀 Quick Start
+
+### 🔧 Prerequisites
+
+Ensure the following tools are installed:
+
+- [Node.js & npm](https://nodejs.org/)
+- [Git](https://git-scm.com/)
+- [MongoDB Atlas Account](https://www.mongodb.com/cloud/atlas)
+- [Clerk Account](https://clerk.com/)
+- [Gemini API Key](https://aistudio.google.com/)
+
+---
+
+
+
+
+
+
+
 <div align="center">
   <br />
     <img src="https://i.postimg.cc/9QtLC6R6/Screenshot-2024-11-08-001254.png" alt="Project Banner">
