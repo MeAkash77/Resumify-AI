@@ -50,6 +50,8 @@
 
 <img width="947" height="442" alt="Image" src="https://github.com/user-attachments/assets/d8479ffe-f1a1-48f2-8872-e725b4d3ce96" />
 
+https://github.com/user-attachments/assets/7b4b709c-ce94-44e9-8ae6-7d6a668b9ff0
+
 ## 💡 Why Resumify?
 
 - ✍️ **Effortless Resume Creation** – Use AI to generate high-quality content tailored to your career goals.
