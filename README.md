@@ -88,7 +88,7 @@ Make sure you have the following installed on your machine:
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/Xerox563/Resumify-AI-crafted-resumes-simplified.-.git
+git clone https://github.com/MeAkash77/Resumify-AI.git
 cd Resumify-AI-crafted-resumes-simplified.-
 ```
 
