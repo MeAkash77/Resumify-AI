@@ -46,8 +46,9 @@
   <br />
 <img width="866" height="439" alt="Image" src="https://github.com/user-attachments/assets/e9695a08-4265-439a-9484-cbcf04419502" />
 
+<img width="946" height="443" alt="Image" src="https://github.com/user-attachments/assets/a8d2f6de-e43e-493b-9877-3f5942bb0bae" />
 
-
+<img width="947" height="442" alt="Image" src="https://github.com/user-attachments/assets/d8479ffe-f1a1-48f2-8872-e725b4d3ce96" />
 
 ## 💡 Why Resumify?
 
