@@ -6,6 +6,16 @@
   ✨ Build professional resumes effortlessly with AI-generated content, secure authentication, and complete customization.
 </p>
 
+ <h2 align="center">Resumify</h2>
+
+  <div align="center">
+     <b>Resumify</b> simplifies the process of creating a professional resume. Powered by AI, users can generate, update, and customize their resumes effortlessly. It's secure, user-friendly, and highly customizable—perfect for anyone looking to create an outstanding resume that stands out to employers.
+  </div>
+  <br />
+  <a href="https://resumify-ai-orpin.vercel.app/"><strong>➥ Visit Resumify App</strong></a>
+</div>
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-14-blue?logo=nextdotjs" />
   <img src="https://img.shields.io/badge/Clerk-Auth-blueviolet?logo=clerk" />
@@ -62,16 +72,6 @@ Ensure the following tools are installed:
 - [Gemini API Key](https://aistudio.google.com/)
 
 ---
-
-
-  <h2 align="center">Resumify</h2>
-
-  <div align="center">
-     <b>Resumify</b> simplifies the process of creating a professional resume. Powered by AI, users can generate, update, and customize their resumes effortlessly. It's secure, user-friendly, and highly customizable—perfect for anyone looking to create an outstanding resume that stands out to employers.
-  </div>
-  <br />
-  <a href="https://resumify-ai-orpin.vercel.app/"><strong>➥ Visit Resumify App</strong></a>
-</div>
 
 ### ✨ **Features**
 
