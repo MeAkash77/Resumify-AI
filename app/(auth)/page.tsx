@@ -154,7 +154,7 @@ const page = () => {
               <ul className="grid grid-cols-2 gap-6">
                 <li>
                   <a
-                    href="https://resumify-by-amit.vercel.app/"
+                    href="https://github.com/MeAkash77"
                     className="group block p-4"
                   >
                     <img
@@ -173,7 +173,7 @@ const page = () => {
 
                 <li>
                   <a
-                    href="https://quick-cv-amit.vercel.app/"
+                    href="https://github.com/MeAkash77"
                     className="group block"
                   >
                     <img
@@ -218,7 +218,7 @@ const page = () => {
                   With AI Builder
                 </a>
                 <a
-                  href="https://quick-cv-amit.vercel.app/"
+                  href="https://github.com/MeAkash77"
                   className="px-4 py-2 text-pink-500 uppercase bg-transparent border-2 border-pink-500 rounded-lg dark:text-white hover:bg-pink-500 hover:text-white text-md"
                 >
                   With Custom Builder
@@ -344,7 +344,7 @@ const page = () => {
                   </div>
 
                   <p className="mt-0.5 text-lg font-medium text-gray-900">
-                    Samay Singh
+                    Akash
                   </p>
                 </div>
               </div>
@@ -409,7 +409,7 @@ const page = () => {
                   </div>
 
                   <p className="mt-0.5 text-lg font-medium text-gray-900">
-                    Raj Gautam
+                    Akash
                   </p>
                 </div>
               </div>
@@ -474,7 +474,7 @@ const page = () => {
                   </div>
 
                   <p className="mt-0.5 text-lg font-medium text-gray-900">
-                    Akshat Singh
+                    Akash
                   </p>
                 </div>
               </div>
@@ -496,7 +496,7 @@ const page = () => {
         <div className="max-w-screen-xl px-4 mx-auto">
           <div className="pt-8 flex max-w-xs mx-auto items-center justify-between">
             <a
-              href="https://portfolio-amit7.netlify.app/"
+              href="https://github.com/MeAkash77"
               className="text-gray-400 transition-colors duration-200 hover:text-gray-800 dark:hover:text-white"
               aria-label="Twitter Profile"
             >
@@ -506,7 +506,7 @@ const page = () => {
               />
             </a>
             <a
-              href="https://github.com/Xerox563"
+              href="https://github.com/MeAkash77"
               className="text-gray-400 transition-colors duration-200 hover:text-gray-800 dark:hover:text-white"
             >
               <svg
@@ -521,7 +521,7 @@ const page = () => {
               </svg>
             </a>
             <a
-              href="https://www.linkedin.com/in/amit-gangwar-a63174250/"
+              href="https://www.linkedin.com/in/me-akash77/"
               className="text-gray-400 transition-colors duration-200 hover:text-gray-800 dark:hover:text-white"
             >
               <svg
@@ -537,7 +537,7 @@ const page = () => {
             </a>
           </div>
           <div className="text-center text-gray-500 dark:text-gray-200 pt-10 sm:pt-12 font-light flex items-center justify-center">
-            &copy; 2024 Made with ❤️ by Amit.
+            &copy; 2024 Made with ❤️ by Akash.
           </div>
         </div>
       </footer>
