@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  ✨ Build professional resumes effortlessly with AI-generated content, secure authentication, and complete customization.
+  ✨ Build professional resumes effortlessly with AI-generated content, secure authentication, and complete customization. <a href="https://resumify-ai-orpin.vercel.app/"><strong>➥ Visit Resumify App</strong></a>
 </p>
 
   <div align="center">
